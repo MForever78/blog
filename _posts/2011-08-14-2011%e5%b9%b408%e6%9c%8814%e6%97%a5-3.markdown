@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: 2011年08月14日
+author:
+  display_name: MForever78
+  login: MForever
+  email: shunjian1128@gmail.com
+  url: ''
+author_login: MForever
+author_email: shunjian1128@gmail.com
+wordpress_id: 190
+wordpress_url: http://mforever78.com/blog/uncategorized/2011%e5%b9%b408%e6%9c%8814%e6%97%a5-3/
+date: '2011-08-14 18:00:45 +0800'
+date_gmt: '2011-08-14 10:00:45 +0800'
+categories:
+- 杂
+tags: []
+comments: []
+---
+
+<p>寒冬</P>
+<p>你要我怎么相信</P>
+<p>把我从春天</P>
+<p>经过盛夏带到这里</P>
+<p>是为了给予温暖</P>
+<p>是我还没有适应你的温度</P>
+<p>还是本来就该互相远望</P>
+<p>甚至孤芳自赏</P>
+<p>至少这样我不会逐渐枯萎</P>
+<p>一碰就碎</P>
+<p>就像现在这样</P>

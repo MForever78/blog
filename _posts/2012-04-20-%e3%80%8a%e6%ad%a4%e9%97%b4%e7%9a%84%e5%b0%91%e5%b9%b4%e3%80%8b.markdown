@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: 《此间的少年》
+author:
+  display_name: MForever78
+  login: MForever
+  email: shunjian1128@gmail.com
+  url: ''
+author_login: MForever
+author_email: shunjian1128@gmail.com
+excerpt: |
+  <div style="text-align: center;"><object width="480" height="346" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.xiami.com/widget/2674450_10911163_480_346_cccccc_dddddd_0/collectPlayer.swf" /><param name="wmode" value="opaque" /><embed width="480" height="346" type="application/x-shockwave-flash" src="http://www.xiami.com/widget/2674450_10911163_480_346_cccccc_dddddd_0/collectPlayer.swf" wmode="opaque" /></object></div>
+
+  <hr />
+wordpress_id: 227
+wordpress_url: http://mforever78.com/blog/?p=227
+date: '2012-04-20 21:31:56 +0800'
+date_gmt: '2012-04-20 13:31:56 +0800'
+categories:
+- 乐
+tags: []
+comments: []
+---
+<div style="text-align: center;"><object width="480" height="346" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.xiami.com/widget/2674450_10911163_480_346_cccccc_dddddd_0/collectPlayer.swf" /><param name="wmode" value="opaque" /><embed width="480" height="346" type="application/x-shockwave-flash" src="http://www.xiami.com/widget/2674450_10911163_480_346_cccccc_dddddd_0/collectPlayer.swf" wmode="opaque" /></object></div>
+<hr />
+<a id="more"></a><a id="more-227"></a></p>
+<div style="text-indent:5em; font-family: 微软雅黑;">
+<p><strong><a href="http://mforever78.com/blog/music/ru-guo-lai-sheng-gan/" title="《如果有来生》感">如果有来生</a></strong></p>
+<div>

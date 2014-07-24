@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: 2011年12月09日
+author:
+  display_name: MForever78
+  login: MForever
+  email: shunjian1128@gmail.com
+  url: ''
+author_login: MForever
+author_email: shunjian1128@gmail.com
+wordpress_id: 197
+wordpress_url: http://mforever78.com/blog/uncategorized/2011%e5%b9%b412%e6%9c%8809%e6%97%a5-3/
+date: '2011-12-08 23:59:42 +0800'
+date_gmt: '2011-12-08 15:59:42 +0800'
+categories:
+- 杂
+tags: []
+comments: []
+---
+
+<p STYLE="text-indent: 2em;">好事不怎么能知道，坏事却预测得很清楚啊。回头看几个月前的博文，哭笑不得。</P>
+<p STYLE="text-indent: 2em;">当初很自以为是地觉得把人都看透了，回头发现自己具备了大多数自己鄙视的特点。时常有莫名奇妙的逆流成河的小悲伤，又或许不是莫名奇妙的。还想着自己内心很强大，简单吐槽，强大个P。</P>
+<p STYLE="text-indent: 2em;">想让自己在这个喧嚣的世界中保持冷静，却依然摘不掉虚伪的面具，过着不是自己想要的生活，人云亦云，随声附和。还没有踏进社会就被磨掉了一些棱角，眼睛看着前方，身体却向另一个方向走去，向那个深渊走去。谁TM拉我一把。</P>

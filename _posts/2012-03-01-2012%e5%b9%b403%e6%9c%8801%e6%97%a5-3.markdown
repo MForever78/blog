@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: 2012年03月01日
+author:
+  display_name: MForever78
+  login: MForever
+  email: shunjian1128@gmail.com
+  url: ''
+author_login: MForever
+author_email: shunjian1128@gmail.com
+wordpress_id: 203
+wordpress_url: http://mforever78.com/blog/uncategorized/2012%e5%b9%b403%e6%9c%8801%e6%97%a5-3/
+date: '2012-03-01 23:22:59 +0800'
+date_gmt: '2012-03-01 15:22:59 +0800'
+categories:
+- 杂
+tags: []
+comments: []
+---
+
+<p><b>酸葡萄</B></P>
+<p>小时候，只能仰头看挂在藤上的葡萄，看别人在一旁指指点点。</P>
+<p>大一点，有衣衫褴褛的人告诉我那葡萄是酸的，但更多的人殷勤地把我推向摘果的阶梯。</P>
+<p>走上去，越来越明白那别人艳羡的葡萄其实真的是酸的。无奈之余看到曾经告诉我真相的人在梯下不屑地笑，然而越来越多的人步履维艰地爬上这摇摇晃晃的阶梯。</P>
+<p>我说，葡萄是酸的。</P>
+<p>他们轻蔑地笑了。</P>
+<p>他们相信那些吃着酸葡萄回望前路，皱着眉头说甜的人。我无能为力。</P>
+<p>唯有拼尽全力最后一跃，摘到那串有着最诱人外表的葡萄。</P>
+<p>吃一颗，告诉别人，它真的是酸的。</P>

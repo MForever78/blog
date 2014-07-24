@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: 2011年08月19日
+author:
+  display_name: MForever78
+  login: MForever
+  email: shunjian1128@gmail.com
+  url: ''
+author_login: MForever
+author_email: shunjian1128@gmail.com
+wordpress_id: 193
+wordpress_url: http://mforever78.com/blog/uncategorized/2011%e5%b9%b408%e6%9c%8819%e6%97%a5-3/
+date: '2011-08-19 22:14:02 +0800'
+date_gmt: '2011-08-19 14:14:02 +0800'
+categories:
+- 杂
+tags: []
+comments: []
+---
+
+<p>一动也不想动，一句话也不想说，甚至不愿去想，不愿去分析，到底是什么东西使我失魂落魄。只想一个人静静呆着，象是小时候在大街上和妈妈走散了，周围人告诉我，好好站着，哪儿也别去。象是丢了什么，脑子里空空的，身子里虚虚的，只有那股我实在说不清也不想说的情绪左冲右撞，结而不化。眼睛看不清东西，整个人恍恍惚惚的。只觉得泪水直涌上来，却又流不出。越色，越色...</P>
+<p STYLE="TexT-inDenT:2em">回望</P>
+<p STYLE="TexT-inDenT:2em">为你枕残的梦</P>
+<p STYLE="TexT-inDenT:2em">燃过的小诗</P>
+<p STYLE="TexT-inDenT:2em">为你暗干的泪</P>
+<p STYLE="TexT-inDenT:2em">浅黄的底子</P>
+<p STYLE="TexT-inDenT:2em">你旧时的眼睛是饱熟的橄榄</P>
+<p STYLE="TexT-inDenT:2em">现在望去</P>
+<p STYLE="TexT-inDenT:2em">仍是我橄榄蜜汁般的泪泉</P>

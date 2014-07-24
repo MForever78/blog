@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: 2011年08月20日
+author:
+  display_name: MForever78
+  login: MForever
+  email: shunjian1128@gmail.com
+  url: ''
+author_login: MForever
+author_email: shunjian1128@gmail.com
+wordpress_id: 194
+wordpress_url: http://mforever78.com/blog/uncategorized/2011%e5%b9%b408%e6%9c%8820%e6%97%a5-3/
+date: '2011-08-20 12:52:19 +0800'
+date_gmt: '2011-08-20 04:52:19 +0800'
+categories:
+- 杂
+tags: []
+comments: []
+---
+
+<p>孟寻一直对我爱理不理，我还制其身，亦复如是。可上课放学，晚自习，从早到晚，低头不见抬头见，别别扭扭，怪没意思的，或者意思太多了。</P>
+<p>仿佛有一种言语</P>
+<p>说出来便失去了它的底蕴</P>
+<p>仿佛摇落的山音</P>
+<p>掌上的流云</P>
+<p>仿佛有一种空白</P>
+<p>河水流过彼岸没有记忆</P>
+<p>仿佛投进水里的石头</P>
+<p>落进心底的字句</P>
+<p>仿佛有一种存在</P>
+<p>只有独自才能彼此感觉</P>
+<p>仿佛淌过鬓边的岁月</P>
+<p>皴在窗棂的微雪</P>

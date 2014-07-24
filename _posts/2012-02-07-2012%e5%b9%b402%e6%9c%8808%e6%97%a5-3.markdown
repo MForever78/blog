@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: 2012年02月08日
+author:
+  display_name: MForever78
+  login: MForever
+  email: shunjian1128@gmail.com
+  url: ''
+author_login: MForever
+author_email: shunjian1128@gmail.com
+wordpress_id: 198
+wordpress_url: http://mforever78.com/blog/uncategorized/2012%e5%b9%b402%e6%9c%8808%e6%97%a5-3/
+date: '2012-02-07 23:49:20 +0800'
+date_gmt: '2012-02-07 15:49:20 +0800'
+categories:
+- 杂
+tags: []
+comments: []
+---
+
+<p STYLE="text-indent:2em;">年级主任名字叫领弟，这显然不是个招人待见的人，从一出生就是。想来也是家里想要男孩，她在此情形下不适时地出现了。到底领出弟来没有不得而知，但不速之特性却完全保存了下来。</P>
+<p STYLE="text-indent:2em;">可想而知，人这么出名是有原因的。老师讲课的方法可能不对谁胃口，领导管理方式可能让谁不爽，但让所有人神都愤的人显然是一个神奇的存在。像所有小说里为情节必需所设置的反派角色一样，她具有所有年级主任共有的缺点，学生高兴她就不爽；老师和学生打成一片嬉笑怒骂她也不爽。她痛恨一切假期，恨不能把星期日也取消连上三年课。遇到违纪学生劈头盖脸一顿骂临了还不忘换上慈祥老奶奶的面目告诉他说“我这都是为了你好”。我从小就不信这话，气急败坏的原因恐怕一是对挑战自己权威这种事情的不爽以及恐惧，二是对自己辛苦制定出的规矩的维护。简言之就是，你丫连我的话都敢不听，反了你了还。可见她把自己放在统治者和独裁者的位置上去了，以奴役和压迫为乐。本性难改，就不说她了。</P>
+<p STYLE="text-indent:2em;">不同的老师与她有不同的过节，多少和我们提到过一点。当老师就有一个好处，就是你说什么都有人听，连发牢骚都有一群人回报以同情的目光。又想到英语老师。我是她的课代表，高兴了就多往办公室跑，传达民意（晚自习想看电影），交流感情，蹭电脑玩。三年从没有一次完整地讲完一本书，没有坚持批过练习册，没有哪个星期上课从不迟到的，但就这样还是能基本保证带的两个班成绩常居一二。给这样的老师当课代表当然轻松了，唯一需要费些脑筋和体力的就是占她的晚自习看电影了。</P>
+<p STYLE="text-indent:2em">“老师，晚自习看电影吧。”</P>
+<p STYLE="text-indent:2em">“咱们任务还没完成呢啊，要……”</P>
+<p STYLE="text-indent:2em">“老师，晚自习看电影吧。”</P>
+<p STYLE="text-indent:2em">“咱们班进度差人家远多了，再说……”</P>
+<p STYLE="text-indent:2em">“老师，晚自习看电影吧。”</P>
+<p STYLE="text-indent:2em">“……”</P>
+<p STYLE="text-indent:2em">“老师，晚自习看电影吧。”</P>
+<p STYLE="text-indent:2em">“要不，下星期？”</P>
+<p STYLE="text-indent:2em">“就这么定了。”</P>

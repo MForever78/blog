@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: 行程第六天：失落（私）
+author:
+  display_name: MForever78
+  login: MForever
+  email: shunjian1128@gmail.com
+  url: ''
+author_login: MForever
+author_email: shunjian1128@gmail.com
+wordpress_id: 372
+wordpress_url: http://mforever78.com/blog/?p=372
+date: '2012-07-14 00:00:27 +0800'
+date_gmt: '2012-07-13 16:00:27 +0800'
+categories:
+- 杂
+tags: []
+comments: []
+---
+
+<p><embed align="center" src="http://www.xiami.com/widget/0_193034/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></p>
+<p>要在高铁上待六个小时。我在车上看了《分手信》，前两个小时就这样过去了。</p>
+<p>在青岛，我在沙滩上堆好了字母“I”和一个桃心，后面不知道该写什么。小时候第一次去海边，晕车又晕船的我在看到大海的一霎那满足了。那海很蓝，沙滩上能顺着小洞挖出躲在里面的小螃蟹。我抓了一个，放在手里。</p>
+<p>我已经回忆不起来当时想了点什么，只知道大海是一个美好的地方。美好的地方能承载美好的东西。</p>
+<p>那次旅行的旅行团几乎毁掉了我对所行之处所有的好印象，我决定要一个人旅行。去海边，找一块可以躺下的岩石，看天，看海。终于有机会，却没有了心情。</p>
+<p>后来，你进入我的生活，我向往着两个人的旅行，你和我。去海边。</p>
+<p>我终于还是没等到这一天。青岛的海和我想的很不一样。有水草，浴场被人挤得一塌糊涂，沙滩好像是被蹂躏过一样。一阵海风吹来，咸咸的，腥腥的，带着水草的污浊。站在这沙滩上，连画一个桃心的心情都没有。没有什么美好的事情。</p>
+<p>我没有收到过什么分手信，最多只是再三央求下你回复的几条短信。我写好了给你的信，一直在我的书包里放着，一直也没有勇气给你。我们也有过像John和Savannah一样的时候，每天给对方写信，有多少呢，我不记得了。我忍不下心像John一样把它们丢进火堆，但也再没有勇气拿出来看。你还留着它们吗？</p>
+<p>我望向窗外，有另一个轨道平行在旁边。不知道它是什么时候和我们这车的轨道并在一起，然后迅速分开，朝另一个遥远的方向奔去。</p>

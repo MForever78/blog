@@ -1,0 +1,55 @@
+---
+layout: post
+status: publish
+published: true
+title: 米店
+author:
+  display_name: MForever78
+  login: MForever
+  email: shunjian1128@gmail.com
+  url: ''
+author_login: MForever
+author_email: shunjian1128@gmail.com
+excerpt: |
+  <div style="text-align: center;">
+
+  <audio  src="http://mforever78.com/musics/midian.mp3" controls="controls">
+  啊哦，你的浏览器居然不支持音乐播放呢 <a href="http://www.google.cn/chrome">来试试最酷的Chrome吧</a>
+  </audio>
+
+  </div>
+wordpress_id: 291
+wordpress_url: http://mforever78.com/blog/?p=291
+date: '2012-06-14 07:54:05 +0800'
+date_gmt: '2012-06-13 23:54:05 +0800'
+categories:
+- 乐
+tags: []
+comments: []
+---
+
+<p>三月的烟雨飘摇的南方</p>
+<p>你坐在你空空的米店</p>
+<p>你一手拿着苹果一手拿着命运</p>
+<p>在寻找你自己的香</p>
+<p>窗外的人们匆匆忙忙</p>
+<p>把眼光丢在潮湿的路上</p>
+<p>你的舞步划过空空的房间</p>
+<p>时光就变成了烟</p>
+<p>爱人，你可感到明天已经来临</p>
+<p>码头上停着我们的船</p>
+<p>我会洗干净头发爬上桅杆</p>
+<p>撑起我们葡萄枝嫩叶般的家</p>
+<p>三月的烟雨飘摇的南方</p>
+<p>你坐在你空空的米店</p>
+<p>你一手拿着苹果一手拿着命运</p>
+<p>在寻找你自己的香</p>
+<p>窗外的人们匆匆忙忙</p>
+<p>把眼光丢在潮湿的路上</p>
+<p>你的舞步划过空空的房间</p>
+<p>时光就变成了烟</p>
+<p>爱人，你可感到明天已经来临</p>
+<p>码头上停着我们的船</p>
+<p>我会洗干净头发爬上桅杆</p>
+<p>撑起我们葡萄枝嫩叶般的家</p>
+
