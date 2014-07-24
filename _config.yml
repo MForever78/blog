@@ -4,7 +4,7 @@ disqus_shortname: mforever78-blog
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-
+url:              http://blog.mforever78.com
 
 # Owner/author information
 owner:
