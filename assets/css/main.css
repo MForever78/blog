@@ -4521,6 +4521,11 @@ body {
   border-bottom-style: solid;
 }
 
+.entry-content img {
+  display: block;
+  margin: auto;
+}
+
 .entry-header {
   position: relative;
   width: 100%;
