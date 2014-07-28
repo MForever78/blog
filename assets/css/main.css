@@ -200,7 +200,7 @@ textarea {
 }
 
 body {
-  margin-top: 26px;
+  margin-top: 32px;
   font-size: 16px;
 }
 
@@ -327,7 +327,7 @@ figcaption {
   padding-top: 10px;
   font-size: 14px;
   font-size: 0.875rem;
-  line-height: 1.8571;
+  line-height: 2.2857;
   line-height: 1.3;
   color: #5c5c5c;
 }
@@ -361,11 +361,11 @@ blockquote {
 .entry-content .footnotes ol,
 .entry-content .footnotes li,
 .entry-content .footnotes p {
-  margin-bottom: 26px;
-  margin-bottom: 1.625rem;
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
   font-size: 14px;
   font-size: 0.875rem;
-  line-height: 1.8571;
+  line-height: 2.2857;
 }
 
 tt,
@@ -415,7 +415,7 @@ pre::-webkit-scrollbar-thumb:horizontal {
   margin-bottom: 1.5em;
   font-size: 12px;
   font-size: 0.75rem;
-  line-height: 2.1667;
+  line-height: 2.6667;
   color: #d0d0d0;
   background-color: #272822;
   border: 1px solid #dbdbdb;
@@ -677,7 +677,7 @@ pre::-webkit-scrollbar-thumb:horizontal {
   font-family: monospace;
   font-size: 12px;
   font-size: 0.75rem;
-  line-height: 2.1667;
+  line-height: 2.6667;
   color: #d0d0d0;
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
@@ -4504,11 +4504,11 @@ body {
 }
 
 .entry-content {
-  margin-bottom: 26px;
-  margin-bottom: 1.625rem;
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
   font-size: 16px;
   font-size: 1rem;
-  line-height: 1.625;
+  line-height: 2;
 }
 
 .entry-content p > a,
@@ -4914,11 +4914,11 @@ body {
 }
 
 .read-more-content {
-  margin-bottom: 26px;
-  margin-bottom: 1.625rem;
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
   font-size: 16px;
   font-size: 1rem;
-  line-height: 1.625;
+  line-height: 2;
 }
 
 .read-more-content p > a,
