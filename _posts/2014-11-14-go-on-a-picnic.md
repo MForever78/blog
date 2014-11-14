@@ -23,4 +23,4 @@ category: 玩
 
 回来问了问某人的意见，大体上还算满意。现在一想到出去玩，总是吃饭、唱歌、看电影这老几样，既花钱又没意思。想来还不如多点这样的户外活动（虽然我还是想带着电脑打游戏）。出门，走路，呼吸新鲜空气，这才是健康的娱乐方式吧。
 
-![laptop](http://mforever78.qiniudn.com/picnic-steps.jpg)
+![laptop](http://mforever78.qiniudn.com/picnic-steps.png)
