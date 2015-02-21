@@ -4532,6 +4532,12 @@ body {
   overflow: hidden;
 }
 
+.header-icon {
+  position: absolute;
+  top: 0;
+  right: 15px;
+}
+
 .header-title {
   margin: 30px 0 0;
   text-align: center;

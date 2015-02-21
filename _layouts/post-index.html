@@ -13,6 +13,9 @@
 {% include navigation.html %}
 
 <div class="entry-header">
+  <div class="header-icon">
+    <i class="fa fa-rss" href="{{ site.url }}/feed.xml"></i>
+  </div>
   {% if page.image.credit %}<div class="image-credit">图片来源: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
   {% if page.image.feature %}
     <div class="entry-image">
