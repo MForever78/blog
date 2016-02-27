@@ -9,7 +9,7 @@ tags:
 - summary
 ---
 
-![Data Structure](http://o35qhjvld.qnssl.com/ds.jpg)
+![Data Structure](https://o35qhjvld.qnssl.com/ds.jpg)
 
 今天（昨天） DS 考完试结课，第一次上姥姥的课有点感慨，晚上正好没有事情趁闲写一个总结。
 
