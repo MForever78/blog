@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><img src="http://mforever78.qiniudn.com/Hair.jpg" alt="Hair" /></p>
+<p><img src="http://o35qhjvld.qnssl.com/Hair.jpg" alt="Hair" /></p>
 <p>为了吐一个漂亮的槽，我耗费了整整一下午的时间。</p>
 <p>当我睡了一觉起床看完这一周的《生活大爆炸》，然后在调戏完群里的同学后又连着看了两集《暴走大事件》，最后把梁边妖大人的所有回答都仔仔细细地全部研读一遍而心情还是没有任何好转的时候，我就在思考如何才能吐好这个漂亮的槽了。</p>
 <p>我这么高冷，我会对着大街喊「全天下的理发师全都是臭傻逼」这么屌丝的话么？我不会。</p>

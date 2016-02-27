@@ -20,7 +20,7 @@ tags:
 - 费曼技巧
 comments: []
 ---
-<p><img src="http://mforever78.qiniudn.com/turing_machine.jpg" alt="Turing Machine" /></p>
+<p><img src="http://o35qhjvld.qnssl.com/turing_machine.jpg" alt="Turing Machine" /></p>
 <p>前段时间看到 Scott H Young 那篇介绍费曼技巧<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a>的文章，一下想到了程序员界流传甚广的小黄鸭调试法（Rubber Duck Debugging）<a href="#fn:2" id="fnref:2" title="see footnote" class="footnote">[2]</a>。几天前晚上散步的时候，聊天儿时提起了罗素悖论，让我联想到图灵对停机问题精妙的解法。想拿这个试试费曼技巧，讲到一半发现卡壳了，自己把自己绕了进去。我想到刘未鹏说过的那种状态，学习一个算法，初看觉得太牛逼了，然后花十分钟理解了人家花了十年才想出的成果，再花十天完全忘记，只能想起那个算法十分精妙，该不会的还是不会。所以应该由本溯源地学习数学和算法，并且写一个博客记录下学习的过程。于是这篇就作为费曼技巧和写作学习实践的第一篇。</p>
 <p>在计算机科学领域，最广为人知的问题是关于 P 与 NP 问题的讨论，但不论 P 还是 NP，它们只是对解决问题效率的讨论。其实还有一类问题，它们难到计算机永远无法解出，这类问题被称作不可判定问题（Undecidable Problem）<a href="#fn:3" id="fnref:3" title="see footnote" class="footnote">[3]</a>，其中一个可能是最有名的问题就是停机问题。</p>
 <p>停机问题提出了这样的疑问：是否存在一个程序，可以判定任何一个程序是否会停止。</p>

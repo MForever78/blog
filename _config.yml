@@ -3,7 +3,8 @@ description:      写字的地方
 disqus_shortname: mforever78-blog
 reading_time:     true
 words_per_minute: 200
-#Your site's domain goes here. Leave localhost server or blank when working locally.
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
 url:              http://blog.mforever78.com
 
 # Owner/author information
@@ -33,19 +34,21 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai
 future:      true
-pygments:    true
-#highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:title/
+permalink:   /:categories/:title/
 
 # Amount of post to show on home page
 paginate: 5
@@ -55,7 +58,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  enable_coderay: false
 
   coderay:
     coderay_line_numbers: nil
@@ -63,6 +66,16 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
+
+# Octopress
+# Default extensions
+post_ext: md
+page_ext: md
+# Found in _templates/
+post_layout: post
+page_layout: page
+# Format titles with titlecase?
+titlecase: true
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

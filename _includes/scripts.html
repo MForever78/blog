@@ -1,4 +1,4 @@
-<script src="//ajax.useso.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="//o35qhjvld.qnssl.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
 {% if site.google_analytics %}
@@ -14,4 +14,5 @@
   ga('send', 'pageview');
 </script>
 {% endif %}
-{% if page.comments %}{% include disqus_comments.html %}{% endif %}
+
+{% if page.comments != false %}{% include disqus_comments.html %}{% endif %}
