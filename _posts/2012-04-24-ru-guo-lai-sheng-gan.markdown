@@ -19,9 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<div style="text-align:center;">
-<embed src="http://www.xiami.com/widget/0_1769438112/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
-</div>
 
 <p>跑步的时候听着这首歌，突然觉得写歌词的是个诗人。</p>
 <blockquote><p>你从一座叫 我 的小镇经过</p>

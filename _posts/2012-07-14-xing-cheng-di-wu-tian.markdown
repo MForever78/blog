@@ -20,7 +20,6 @@ tags: []
 comments: []
 ---
 
-<p><embed align="center" src="http://www.xiami.com/widget/0_193034/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></p>
 <p>要在高铁上待六个小时。我在车上看了《分手信》，前两个小时就这样过去了。</p>
 <p>在青岛，我在沙滩上堆好了字母“I”和一个桃心，后面不知道该写什么。小时候第一次去海边，晕车又晕船的我在看到大海的一霎那满足了。那海很蓝，沙滩上能顺着小洞挖出躲在里面的小螃蟹。我抓了一个，放在手里。</p>
 <p>我已经回忆不起来当时想了点什么，只知道大海是一个美好的地方。美好的地方能承载美好的东西。</p>

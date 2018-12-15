@@ -10,9 +10,7 @@ author:
   url: ''
 author_login: MForever
 author_email: shunjian1128@gmail.com
-excerpt: |
-  <a href="http://mforever78.com/blog/wp-content/uploads/2012/04/110382001.jpg"><img class="aligncenter size-full wp-image-283" title="如丧" src="http://mforever78.com/blog/wp-content/uploads/2012/04/110382001.jpg" alt="" width="300" height="340" data-pinit="registered" /></a>
-  <div style="text-align: center;"><object width="257" height="33" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowscriptaccess" value="never" /><param name="allownetworking" value="internal" /><param name="autostart" value="0" /><param name="src" value="http://www.xiami.com/widget/0_385434/singlePlayer.swf" /><param name="wmode" value="transparent" /><embed width="257" height="33" type="application/x-shockwave-flash" src="http://www.xiami.com/widget/0_385434/singlePlayer.swf" allowscriptaccess="never" allownetworking="internal" autostart="0" wmode="transparent" /></object></div>
+excerpt:
 wordpress_id: 206
 wordpress_url: http://mforever78.com/blog/uncategorized/%e3%80%8a%e5%a6%82%e4%b8%a7%e3%80%8b%e6%91%98-3/
 date: '2012-04-19 17:39:13 +0800'
@@ -23,8 +21,6 @@ tags: []
 comments: []
 ---
 <p><a href="http://mforever78.com/blog/wp-content/uploads/2012/04/110382001.jpg"><img class="aligncenter size-full wp-image-283" title="如丧" src="http://mforever78.com/blog/wp-content/uploads/2012/04/110382001.jpg" alt="" width="300" height="340" data-pinit="registered" /></a></p>
-<div style="text-align: center;"><object width="257" height="33" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowscriptaccess" value="never" /><param name="allownetworking" value="internal" /><param name="autostart" value="0" /><param name="src" value="http://www.xiami.com/widget/0_385434/singlePlayer.swf" /><param name="wmode" value="transparent" /><embed width="257" height="33" type="application/x-shockwave-flash" src="http://www.xiami.com/widget/0_385434/singlePlayer.swf" allowscriptaccess="never" allownetworking="internal" autostart="0" wmode="transparent" /></object></div>
-<p><a id="more"></a><a id="more-206"></a></p>
 
 <ul>你说说，要到什么时辰，一个人才能真正穿过所有的乱七八糟，看到那个True love ofmine？会是第一个还是最后一个？是最长的那个还是最短的那个？是常常想起的那个还是常常忘记的那个？是为她笑得最欢畅的那个还是为她哭得最傻逼的那个？是用她生日当信用卡密码的那个还是缠绵直到黎明来临的那个？是之后常常一起喝咖啡变成红粉知己的那个还是在校门外路灯下终成永决的那个？到底是他妈哪个呀？有还是压根没有呀？要是没有就早说，省了多少咬着被角哭湿枕头的半睡不醒。可是如果真的没有，那帮孙子又怎么写出的那些松花般操蛋的歌，拍出那些麻花般拧巴的电影，像擀面杖般揉搓你那长得像血拳头其实柔软得像血馒头的心呢？？？</ul>
 <ul>还有好多好多别的心呢？大家都说付出了真心，收到一堆下水，那些真心都去哪了？能量守恒物质不灭吧不是说，都他妈去哪了？历史并不真的流传于世，因为总有人怀着绝望毁灭了最后的人证物证。</ul>
