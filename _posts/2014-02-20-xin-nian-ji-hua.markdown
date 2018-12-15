@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><img src="https://o35qhjvld.qnssl.com/behind_a_MAC_tn.jpg" alt="behind a MAC" /></p>
+<p><img src="https://blog.mforever78.com/images/behind_a_MAC_tn.jpg" alt="behind a MAC" /></p>
 <p>虽然说计划很难有实现的时候，但每年人们还是欺骗自己作出一个看似圆满的计划。一年过去，看着从未实现的计划叹一口气，再列一个新的计划。（咦，我好像想起了谁）</p>
 <p>在列计划的过程中，重新审视自己倒也是个不错的体验。不管能不能实现，下面是我的新年计划。</p>
 <ul>

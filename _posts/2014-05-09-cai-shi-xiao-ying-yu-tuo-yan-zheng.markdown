@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><img src="https://o35qhjvld.qnssl.com/deadline.jpg" alt="Deadline" title="Deadline" /></p>
+<p><img src="https://blog.mforever78.com/images/deadline.jpg" alt="Deadline" title="Deadline" /></p>
 <h2>蔡式效应</h2>
 <p>蔡式效应又名蔡戈尼效应，大意是说人们对未完成的工作往往有很深的印象，换个好听一点的说法也可以表述为人们天生有种办事有始有终的驱动力。我在这学期的积极心理学课上接触到这个概念，蔡式效应被看作拖延症的成因之一。</p>
 <h2>蔡式效应和拖延症</h2>

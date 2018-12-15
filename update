@@ -1,2 +1,4 @@
+#!/bin/bash
+
 git push
 bundle exec jekyll b && rsync -avz --exclude=*.swp --exclude=update ./_site/ DO:~/www/blog

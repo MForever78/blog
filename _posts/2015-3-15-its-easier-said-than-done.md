@@ -5,7 +5,7 @@ comments: false
 category: 杂
 ---
 
-![revolution](//o35qhjvld.qnssl.com/dosomething.jpg)
+![revolution](//blog.mforever78.com/images/dosomething.jpg)
 
 上学期听到的一次演讲，加上和老师的一次深谈，让我完全清楚了为什么中国大学的课程教授得这么烂。但是好不容易碰到一个对教学还认真的老师，我不想放过这个难得的做出改变的机会，决定给老师当一次助教，从课程内容、课后练习、交流上都按照我的想法作出一些改变，看能不能让课程变得像国外的课程那样精彩。
 
